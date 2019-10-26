@@ -1,0 +1,10 @@
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Unauthorized request to path /","level":"error"}
+{"message":"Card with given ID 2 is not found","level":"error"}
+{"message":"Card with id f5ddd06a-9620-4f1f-9728-05ff656794a9 created","level":"info"}
+{"message":"Card with id feaa54d7-b9f7-4eba-a785-7d0c3a48a3c6 created","level":"info"}
+{"message":"Card with id c59d2e8f-ff3c-437d-ad88-485e2ef531cc created","level":"info"}
+{"message":"Card with id 66e7d471-2c49-4099-bf1b-4e74dcfe80d3 created","level":"info"}
+{"message":"Card with given ID 1 has been deleted","level":"info"}
+{"message":"Card with given ID c59d2e8f-ff3c-437d-ad88-485e2ef531cc has been deleted","level":"info"}
